@@ -1,4 +1,4 @@
-package com.example.avto;
+package com.example.avto2;
 
 import android.os.Bundle;
 import io.flutter.app.FlutterActivity;
